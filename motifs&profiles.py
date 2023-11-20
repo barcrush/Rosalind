@@ -1,6 +1,6 @@
 # Finding DNA needles in Genomic Haystacks
 """ FINDING MOTIFS IN DNA SEQUENCE """
-# Python use 0-based numbering for positions of symbols in strings
+
 import pprint
 import re
 from typing import List, Any
