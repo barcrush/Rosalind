@@ -8,6 +8,4 @@
 
 **website:** [http://rosalind.info](http://rosalind.info)
 
-**problems & solutions:**
-
 <img src="https://img.shields.io/badge/language-python-orange.svg" style="zoom:100%;" /> 
